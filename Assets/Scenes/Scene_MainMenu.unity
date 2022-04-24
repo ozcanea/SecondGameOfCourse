@@ -908,6 +908,7 @@ MonoBehaviour:
   energyText: {fileID: 1414452089}
   maxEnergy: 5
   energyRechargeDuration: 1
+  playButton: {fileID: 472286164}
   androidNotificationHandler: {fileID: 2061835601}
 --- !u!4 &2061835600
 Transform:
